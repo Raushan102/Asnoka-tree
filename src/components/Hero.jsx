@@ -59,9 +59,9 @@ const Hero = () => {
             {/* University Icon replaced the "Official Project" text */}
             <motion.div
               whileHover={{ scale: 1.05 }}
-              className="w-28 h-28 md:w-32 md:h-32 bg-green-500/10 border border-green-500/20 rounded-[40px] flex items-center justify-center mx-auto mb-8 backdrop-blur-3xl shadow-2xl"
+              className="w-28 h-28 md:w-32 md:h-32   border-green-500/20 rounded-[40px] flex items-center justify-center mx-auto mb-8 backdrop-blur-3xl shadow-2xl"
             >
-              <FaUniversity className="text-green-400 text-5xl md:text-6xl" />
+              <img className="text-green-400 text-5xl md:text-6xl rounded-full"  src='/logo.jpg'/>
             </motion.div>
 
             <h1 className="text-4xl sm:text-6xl md:text-7xl lg:text-8xl font-black text-white leading-tight uppercase tracking-tighter">

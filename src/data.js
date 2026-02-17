@@ -12,7 +12,7 @@ export const projectData = {
   },
   description: "The Ashoka tree (Saraca asoca) is a beautiful evergreen tree found mainly in India. It has long, dark green leaves and bright orange-red flowers that bloom in the spring season. The tree is considered sacred in Hinduism and Buddhism. The word 'Ashoka' means 'remover of sorrow.' It is often planted in gardens and near temples for decoration. The bark of the Ashoka tree is used in Ayurvedic medicine, especially for women's health problems. The Ashoka tree is also mentioned in the ancient Indian epic Ramayana.",
   students: [
-    { id: 1, name: "Ankit Kumar Gupta", roll: "BT/MIE/25/031", leader: true },
+    { id: 1, name: "Ankit Kumar Gupta", roll: "BT/MIE/25/031"},
     { id: 2, name: "Nitesh Kumar Mahto", roll: "BT/MIE/25/004" },
     { id: 3, name: "Roshan Kumar Gupta", roll: "BT/MIE/25/030" },
     { id: 4, name: "Amit Kumar Mahto", roll: "BT/MIE/25/027" },
